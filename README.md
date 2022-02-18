@@ -1,0 +1,2 @@
+# GoPackage
+go package test
